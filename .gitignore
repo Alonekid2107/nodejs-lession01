@@ -1,3 +1,9 @@
+temp
+'git add' #them cac file vao vung storage
+'git commit -m"tin nhan"' #comnit cac file thay doi 
+'git push origin main' #Push commit len nhanh main
+
+
 # Logs
 logs
 *.log
